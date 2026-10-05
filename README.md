@@ -81,6 +81,6 @@ These only check the prompt and the input validation, so they run without a key.
 
 - It's an AI translation and it can be wrong. It is not medical advice.
 - Don't paste real patient data. The sample notes are made up.
-- Urdu, Hindi and Arabic output may be weaker than English, so I wouldn't trust them without checking.
+- Urdu, Hindi and Arabic output may be weaker than English.
 - The history is lost when the page is refreshed.
 - I only tried it on a handful of short notes.
